@@ -27,6 +27,7 @@ function App()
     // Generate random number
     var randomNum1 = Math.floor(Math.random() * 6);
     var randomNum2 = Math.floor(Math.random() * 6);
+    
     setNewImage(diceImages[randomNum1]);
     setNewImage2(diceImages[randomNum2]);
   }
