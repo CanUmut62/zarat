@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  flex-direction:column;
+  background-color: #282c34;
+}
+.dice1 {
+  background-image: url('./images/dice1.png');
+  background-color: black;
+ 
+}
+.buttonBottom{
+  height: 50px;
+  width: 100px;
+  font-size: 30px;
 }
 
 .App-logo {
