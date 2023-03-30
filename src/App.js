@@ -30,6 +30,8 @@ function App()
     
     setNewImage(diceImages[randomNum1]);
     setNewImage2(diceImages[randomNum2]);
+
+    
   }
 
 
